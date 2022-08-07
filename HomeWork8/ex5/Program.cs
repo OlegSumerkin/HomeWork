@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 int m;
 int n;
-Random rnd=new Random();
 Console.WriteLine("Enter number of strings and columns: ");
 n=m=Convert.ToInt32(Console.ReadLine());
 
