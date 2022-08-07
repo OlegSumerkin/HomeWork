@@ -8,7 +8,6 @@ if(n>m){
     n=m;
     m=temp;
 }
-Console.WriteLine("Result array: ");
 int a=m-n+1;
 int[] array=new int[a];
 for(int i=0;i<array.Length;i++){
